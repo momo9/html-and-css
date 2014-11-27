@@ -1,18 +1,20 @@
 @CHARSET "UTF-8";
 
-p {
-    color: maroon;
-}
-
 q {
     color: green;
 }
 
 body {
-    font-family: times;
+    font-family: arial;
+    color: maroon;
 }
 
 h1 {
+    color: gray;
     font-family: arial;
     border-bottom: 1px solid gray;
+}
+
+em {
+    font-family: times;
 }
