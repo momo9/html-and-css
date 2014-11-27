@@ -3,3 +3,16 @@
 p {
     color: maroon;
 }
+
+q {
+    color: green;
+}
+
+body {
+    font-family: times;
+}
+
+h1 {
+    font-family: arial;
+    border-bottom: 1px solid gray;
+}
