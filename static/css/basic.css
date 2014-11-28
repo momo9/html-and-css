@@ -5,20 +5,21 @@ q {
 }
 
 body {
-    font-family: arial;
+    font-family: verdana;
     color: maroon;
 }
 
 h1 {
     color: gray;
-    font-family: arial;
     border-bottom: 1px solid gray;
 }
 
-em {
-    font-family: times;
+.en {
+    font-family: georgia;
 }
 
 .ch {
+    color: gray;
     font-family: 黑体;
 }
+
